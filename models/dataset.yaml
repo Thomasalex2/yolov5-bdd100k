@@ -11,5 +11,5 @@ names:
 - train
 nc: 10
 path: .\kaggle\input\bdd100k-for-yolov5\bdd100k\
-val: .\images\val\
-train: .\images\train\
+val: images\val\
+train: images\train\
